@@ -1,0 +1,31 @@
+<html>
+    <head>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <header><h1>Titre de L'entente de la page</h1></header>
+        <nav> 
+            <ul> 
+                <li><a href="index.html">Accueil</a></li> 
+                <li><a href="contact.html">Contact</a></li> 
+                <li><a href="Services.html">Services</a></li>
+                <li><a href="Partenaire.html">Partenaires</a></li>
+            </ul>
+        </nav>
+        <section>   
+
+            <header><h2>Titre de la section</h2></header>
+            <article>
+                <header><h3>titre de l'article 1</h3></header>
+                <p>ksdjffsbfsdkjsej kje sjkebnfjksjk<br/> fjks jkn kjeskj nkjfjs whaqbkajwkdawl <br/>n
+                    wa hbawjk kajkj afdsxcvfxg dg dds</p>
+            </article>
+            <article>
+                <h3>Titre de l'article 2</h3>
+                <p> jhsabfjashbfjsa jhsebfjsh bfjshb jfseb jshb jh esjbh sbhsj hjsb bhe jhbs 
+                <footer>¢2015 All Rights Reserved
+            </article>
+    </body>
+</html>
